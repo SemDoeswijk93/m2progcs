@@ -1,0 +1,14 @@
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.AssemblyInfoInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.AssemblyInfo.cs
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.csproj.CoreCompileInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\bin\Debug\net9.0\RijSchool.exe
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\bin\Debug\net9.0\RijSchool.deps.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\bin\Debug\net9.0\RijSchool.runtimeconfig.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\bin\Debug\net9.0\RijSchool.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\bin\Debug\net9.0\RijSchool.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\refint\RijSchool.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\RijSchool.genruntimeconfig.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\classes\RijSchool\obj\Debug\net9.0\ref\RijSchool.dll

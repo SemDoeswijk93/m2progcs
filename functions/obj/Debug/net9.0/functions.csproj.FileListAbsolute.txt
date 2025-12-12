@@ -1,0 +1,14 @@
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\bin\Debug\net9.0\functions.exe
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\bin\Debug\net9.0\functions.deps.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\bin\Debug\net9.0\functions.runtimeconfig.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\bin\Debug\net9.0\functions.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\bin\Debug\net9.0\functions.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.AssemblyInfoInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.AssemblyInfo.cs
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.csproj.CoreCompileInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\refint\functions.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\functions.genruntimeconfig.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\functions\obj\Debug\net9.0\ref\functions.dll
