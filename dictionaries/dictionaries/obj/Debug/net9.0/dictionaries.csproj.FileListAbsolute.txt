@@ -1,0 +1,15 @@
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.AssemblyInfoInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.AssemblyInfo.cs
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.sourcelink.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\bin\Debug\net9.0\dictionaries.exe
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\bin\Debug\net9.0\dictionaries.deps.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\bin\Debug\net9.0\dictionaries.runtimeconfig.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\bin\Debug\net9.0\dictionaries.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\bin\Debug\net9.0\dictionaries.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\refint\dictionaries.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\dictionaries.genruntimeconfig.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\dictionaries\dictionaries\obj\Debug\net9.0\ref\dictionaries.dll
