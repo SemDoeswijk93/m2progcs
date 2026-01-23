@@ -1,0 +1,16 @@
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\FileIo.exe
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\quiz.txt
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\FileIo.deps.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\FileIo.runtimeconfig.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\FileIo.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\FileIo.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.AssemblyInfoInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.AssemblyInfo.cs
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.csproj.CoreCompileInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.sourcelink.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\refint\FileIo.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.genruntimeconfig.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\ref\FileIo.dll
