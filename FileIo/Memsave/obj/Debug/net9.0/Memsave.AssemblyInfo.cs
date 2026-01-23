@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memsave")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3541ce726b1455c0f3c5df5e373d40af1e5b8274")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0ed4f7506353b6e909e49a11e086d860c126064")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memsave")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memsave")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

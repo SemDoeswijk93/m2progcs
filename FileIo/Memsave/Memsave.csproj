@@ -13,4 +13,11 @@
     </None>
 </ItemGroup>
 
+  <ItemGroup >
+    <None Update="Save.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+</ItemGroup>
+
+
 </Project>
