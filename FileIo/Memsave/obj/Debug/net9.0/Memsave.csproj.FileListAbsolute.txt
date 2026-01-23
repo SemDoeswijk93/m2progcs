@@ -1,0 +1,16 @@
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\bin\Debug\net9.0\Memsave.exe
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\bin\Debug\net9.0\Memsave.deps.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\bin\Debug\net9.0\Memsave.runtimeconfig.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\bin\Debug\net9.0\Memsave.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\bin\Debug\net9.0\Memsave.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.AssemblyInfoInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.AssemblyInfo.cs
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.csproj.CoreCompileInputs.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.sourcelink.json
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\refint\Memsave.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.pdb
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\Memsave.genruntimeconfig.cache
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\obj\Debug\net9.0\ref\Memsave.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\Memsave\bin\Debug\net9.0\welkomstate.txt
