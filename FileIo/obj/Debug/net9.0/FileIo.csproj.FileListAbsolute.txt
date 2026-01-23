@@ -14,3 +14,4 @@ C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo
 C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.pdb
 C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\FileIo.genruntimeconfig.cache
 C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\obj\Debug\net9.0\ref\FileIo.dll
+C:\Users\semdo\OneDrive - Mediacollege Amsterdam\SD - Leerjaar 1\m2progcs\FileIo\bin\Debug\net9.0\nos.txt
